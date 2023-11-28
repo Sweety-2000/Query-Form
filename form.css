@@ -1,0 +1,82 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 14px;
+    background-color: rgb(247, 118, 118);
+    background-image: url("contact-us-background.jpg");
+}
+
+.container{
+    background-color: rgb(32, 87, 109);
+    width: 500px;
+    padding: 25px;
+    margin: 60px 0px 40px 790px;
+    border-top: 5px solid rgb(25, 25, 68);
+    box-shadow: 0 0 7px 5px rgba(0,0,0,0.5);
+}
+
+.container h2{
+    font-size: 24px;
+    line-height: 24px;
+    padding: 30px;
+    text-align: center;
+}
+
+.input-group{
+    width: 90%;
+    position: relative;
+    margin: 20px auto;
+}
+
+.mail{
+    width: 100% ;
+    padding: 8px 0 8px 10px;  
+}
+.number{
+    width: 100%;
+    padding: 8px 0 8px 10px;
+}
+
+.name{
+    width: 45%;
+    padding: 8px 0 8px 10px;
+}
+
+.input-group span{
+    margin-left: 35px;
+    
+}
+
+.dob{
+    padding: 8px 0 8px 10px;
+}
+
+
+.feedback{
+    width: 100%;
+    padding: 8px 0 8px 10px;
+
+    font-size: 15px;
+    line-height: 15px;
+
+}
+
+.button{
+    background-color: rgb(18, 40, 70);
+    color: aliceblue;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    outline: none;
+   
+}
+
+.radio-button{
+    margin-right: 4px;
+}
+
